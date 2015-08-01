@@ -1,0 +1,22 @@
+{
+  "name": "zeros_in_fact",
+  "version": "1.0.0",
+  "description": "Returns zeros in factorial",
+  "main": "zerosInFact.js",
+  "scripts": {
+    "test": "testZeros"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soydeveloper/techK.git"
+  },
+  "keywords": [
+    "factorial"
+  ],
+  "author": "Andoni Lloret",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/soydeveloper/techK/issues"
+  },
+  "homepage": "https://github.com/soydeveloper/techK#readme"
+}
